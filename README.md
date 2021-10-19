@@ -1,18 +1,6 @@
 # IntroductionToResearchSkills
  project managment
 
-+-----------------------------+
-| **Group A**                 | 
-+-----------------------------+ 
-| Gaelle Abi Younes           |
-+-----------------------------+
-| Jean Naftalski              |  
-+-----------------------------+ 
-| Florent Zolliker            |  
-+-----------------------------+ 
-
-AICrowd Team Name: CIVIL-459_GroupA
-
 Milestone 1 - Setting Up TrajNet++ and training a D-LSTM model
 ==========
 

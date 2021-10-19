@@ -1,8 +1,5 @@
 # IntroductionToResearchSkills
  project managment
- 
-TrajNet++ : The Trajectory Forecasting Framework
-================================================
 
 +-----------------------------+
 | **Group A**                 | 

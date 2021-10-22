@@ -44,11 +44,13 @@ The solution obtained in the last lane when you gave as entry one of the .txt fi
 
 This is the output of your file:
 
-![Test_fail](https://github.com/FlorentZolliker/IntroductionToResearchSkills/blob/main/Test_failed.PNG?raw=true)
+![Test_end](https://github.com/FlorentZolliker/IntroductionToResearchSkills/blob/main/Test_ended.PNG?raw=true)
 
 This is the imput of the other file:
 
-![Test_will_not_fail](https://github.com/FlorentZolliker/IntroductionToResearchSkills/blob/main/Test_will_not_anymore_fail.PNG?raw=true)
+![Test_solutions_that_you_should_obtain](https://github.com/FlorentZolliker/IntroductionToResearchSkills/blob/main/Test_solution.PNG?raw=true)
+
+Now compare the two. If it's the same, your program worked well.
 
 * It usually happends that the program cannot open your .txt file because you wrote the full name with the extensio. Example: "test_CH1903+_to_WGS.txt". This won't work.
 * It also happens that you have an error, that's because you have already did the transformation for that file. If you have that problem, open your .txt file and delete the last line to return to the basic .txt file

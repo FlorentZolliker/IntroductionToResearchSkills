@@ -1,13 +1,3 @@
-# Simple read file for the coordinate input
-# 
-# to use, either import the function with: from readCoord import readCoord
-# or use directly the function definition in your project
-#
-# example usage: e,n,h  = readCoord("In_WGS84_lab1-2021.txt")
-# you will need to convert the string to float with float()
-
-
-
 def readCoord(file_name):
     '''
     Simple read file for the coordinate input.

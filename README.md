@@ -58,7 +58,7 @@ Florent Zolliker
 Contributors names and contact info
 
 Lander Verlinde  
-[@Lander Verlinde](https://be.linkedin.com/in/lander-verlinde-485795218)
+[@Linkedin](https://be.linkedin.com/in/lander-verlinde-485795218)
 
 ## Acknowledgments
 

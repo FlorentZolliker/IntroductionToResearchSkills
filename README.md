@@ -43,6 +43,7 @@ This program is usefull to go eather:
 
 Example: 
 ![Test_fail](https://github.com/FlorentZolliker/IntroductionToResearchSkills/blob/main/Test_failed.PNG?raw=true)
+![Test_will_not_fail](https://github.com/FlorentZolliker/IntroductionToResearchSkills/blob/main/Test_will_not_anymore_fail.PNG?raw=true)
 
 ## Authors
 

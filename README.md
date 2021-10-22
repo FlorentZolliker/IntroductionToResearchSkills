@@ -18,7 +18,7 @@ An in-depth paragraph about your project and overview of use.
 
 ### Installing
 
-* How/where to download your program
+* First you need to have python installed on yur machine, This is the link to download the latest version: https://www.python.org/downloads/
 * Any modifications needed to be made to files/folders
 
 ### Executing program

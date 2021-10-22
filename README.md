@@ -20,7 +20,7 @@ This program is usefull to go eather:
 ### Installing
 
 * First you need to have python installed on your machine. This is the link to download the latest version: https://www.python.org/downloads/
-* Then download the files (Transformation_final.py, readCoord.py, test_CH1903+_to_WGS.txt and test_WGS_to_CH1903+.txt).
+* Then download the "Document_and_code" file. (Transformation_final.py, readCoord.py, test_CH1903+_to_WGS.txt and test_WGS_to_CH1903+.txt).
 * The files have to be in the same folder one from the others.
 
 ### Executing program

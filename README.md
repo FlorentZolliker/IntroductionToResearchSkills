@@ -40,8 +40,9 @@ This program is usefull to go eather:
 
 * It usually happends that the program cannot open your .txt file because you wrote the full name with the extensio. Example: "test_CH1903+_to_WGS.txt". This won't work.
 * It also happens that you have an error, that's because you have already did the transformation for that file. If you have that problem, open your .txt file and delete the last line to return to the basic .txt file
-Example: 
 
+Example: 
+![Test_fail](https://github.com/FlorentZolliker/IntroductionToResearchSkills/blob/main/Test_failed.PNG?raw=true)
 
 ## Authors
 

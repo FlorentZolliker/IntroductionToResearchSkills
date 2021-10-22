@@ -1,0 +1,2 @@
+# CHTRS95 (WGS84)  phi[deg] lambda[deg] h[m]
+46.521464753 6.567893633 460.487

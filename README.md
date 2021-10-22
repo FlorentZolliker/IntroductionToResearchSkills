@@ -38,16 +38,28 @@ This program is usefull to go eather:
 
 ## Help
 
+* To have an idea if the code works or not:
+
+The solution obtained in the last lane when you gave as entry one of the .txt file, is the entry of the other txt file.
+
+This is the output of your file:
+
+![Test_fail](https://github.com/FlorentZolliker/IntroductionToResearchSkills/blob/main/Test_failed.PNG?raw=true)
+
+This is the imput of the other file:
+
+![Test_will_not_fail](https://github.com/FlorentZolliker/IntroductionToResearchSkills/blob/main/Test_will_not_anymore_fail.PNG?raw=true)
+
 * It usually happends that the program cannot open your .txt file because you wrote the full name with the extensio. Example: "test_CH1903+_to_WGS.txt". This won't work.
 * It also happens that you have an error, that's because you have already did the transformation for that file. If you have that problem, open your .txt file and delete the last line to return to the basic .txt file
 
 _Example:_
 
-This txt file will lead to a fail.
+This txt file will lead to a fail:
 
 ![Test_fail](https://github.com/FlorentZolliker/IntroductionToResearchSkills/blob/main/Test_failed.PNG?raw=true)
 
-This txt file will lead into a success.
+This txt file will lead into a success:
 
 ![Test_will_not_fail](https://github.com/FlorentZolliker/IntroductionToResearchSkills/blob/main/Test_will_not_anymore_fail.PNG?raw=true)
 

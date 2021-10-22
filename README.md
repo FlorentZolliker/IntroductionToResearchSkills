@@ -43,7 +43,11 @@ This program is usefull to go eather:
 
 _Example:_
 
+This txt file will lead to a fail.
+
 ![Test_fail](https://github.com/FlorentZolliker/IntroductionToResearchSkills/blob/main/Test_failed.PNG?raw=true)
+
+This txt file will lead into a success.
 
 ![Test_will_not_fail](https://github.com/FlorentZolliker/IntroductionToResearchSkills/blob/main/Test_will_not_anymore_fail.PNG?raw=true)
 

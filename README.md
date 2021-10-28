@@ -38,6 +38,12 @@ This program is usefull to go eather:
 
 ## Help
 
+* If you can't open the file just with a double click (usually if you are on Apple device):
+
+1.Open IDLE (python3 prompt)
+
+2.Right click on "Transformation_final.py" and select "Open with" --> IDLE (python 3)
+
 * To have an idea if the code works or not:
 
 The solution obtained in the last lane when you gave as entry one of the .txt file, is the entry of the other txt file.
